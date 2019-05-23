@@ -1,0 +1,2 @@
+# TulingIntegratedManagementSystem
+图灵运动挑战赛报名与管理系统
