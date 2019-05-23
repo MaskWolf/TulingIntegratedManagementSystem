@@ -1,0 +1,11 @@
+﻿  Commctrl.cpp
+Commctrl.cpp(86): warning C4838: 从“double”转换到“float”需要收缩转换
+Commctrl.cpp(86): warning C4305: “初始化”: 从“double”到“float”截断
+Commctrl.cpp(106): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 44 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  图灵运动挑战赛报名系统.vcxproj -> D:\图灵运动挑战赛\图灵运动挑战赛报名系统\Release\图灵运动挑战赛报名系统.exe
+  图灵运动挑战赛报名系统.vcxproj -> D:\图灵运动挑战赛\图灵运动挑战赛报名系统\Release\图灵运动挑战赛报名系统.pdb (Full PDB)

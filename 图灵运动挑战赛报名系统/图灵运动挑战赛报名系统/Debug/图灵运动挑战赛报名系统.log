@@ -1,0 +1,11 @@
+﻿  MainWindow.cpp
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(475): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(480): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(485): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(490): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(495): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(500): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(512): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\图灵运动挑战赛\图灵运动挑战赛报名系统\图灵运动挑战赛报名系统\mainwindow.cpp(512): warning C4305: “初始化”: 从“double”到“float”截断
+  图灵运动挑战赛报名系统.vcxproj -> D:\图灵运动挑战赛\图灵运动挑战赛报名系统\Debug\图灵运动挑战赛报名系统.exe
+  图灵运动挑战赛报名系统.vcxproj -> D:\图灵运动挑战赛\图灵运动挑战赛报名系统\Debug\图灵运动挑战赛报名系统.pdb (Partial PDB)

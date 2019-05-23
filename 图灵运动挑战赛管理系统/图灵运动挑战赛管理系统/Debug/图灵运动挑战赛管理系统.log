@@ -1,0 +1,11 @@
+﻿  MainWindow.cpp
+d:\图灵运动挑战赛\图灵运动挑战赛管理系统\图灵运动挑战赛管理系统\mainwindow.cpp(1051): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛管理系统\图灵运动挑战赛管理系统\mainwindow.cpp(1056): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛管理系统\图灵运动挑战赛管理系统\mainwindow.cpp(1061): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛管理系统\图灵运动挑战赛管理系统\mainwindow.cpp(1066): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛管理系统\图灵运动挑战赛管理系统\mainwindow.cpp(1071): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\图灵运动挑战赛\图灵运动挑战赛管理系统\图灵运动挑战赛管理系统\mainwindow.cpp(1077): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Commctrl.cpp
+  正在生成代码...
+  图灵运动挑战赛管理系统.vcxproj -> D:\图灵运动挑战赛\图灵运动挑战赛管理系统\Debug\图灵运动挑战赛管理系统.exe
+  图灵运动挑战赛管理系统.vcxproj -> D:\图灵运动挑战赛\图灵运动挑战赛管理系统\Debug\图灵运动挑战赛管理系统.pdb (Partial PDB)
